@@ -17,4 +17,3 @@
 - Building strong real-world data projects  
 - Strengthening advanced SQL & analytics skills  
 - Creating dashboards and business insights  
-- Starting my career as a Data Analyst
