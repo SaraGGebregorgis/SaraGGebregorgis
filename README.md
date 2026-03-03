@@ -9,7 +9,7 @@
 - **SQL** (MySQL, data querying & analysis)  
 - **Excel** (Advanced formulas, dashboards, pivot tables)  
 - **Python** (Data analysis & scripting)   
-- Basic knowledge of **HTML, CSS, JavaScript**
+
 
 ---
 
